@@ -1,2 +1,2 @@
-# yangjiao.github.io
+# YangJiao.github.io
 Repository for Yang Jiao's academic research website.
